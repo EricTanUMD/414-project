@@ -4,7 +4,32 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Final project for INST414
+Final project for INST414: the topic is the preditors/determinants of adolescent metnal health. Focusing on finding predictors for mental health based on public mental health datasets.
+
+### Core Dependencies:
+
+```
+Python 3.8+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+pytest
+```
+
+### Installation
+
+```
+git clone [https://github.com/github_username/repo_name.git](https://github.com/EricTanUMD/414-project)
+```
+
+License
+    Distributed under the MIT License. See LICENSE.txt for more information.
+
+Acknowledgments
+    Kaggle for providing the dataset
 
 ## Project Organization
 
