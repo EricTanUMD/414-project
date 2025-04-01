@@ -57,7 +57,7 @@ This project utilizes the "Depression and Mental Health Data Analysis" dataset f
 - Coping_Struggles: The inability to cope with daily problems or stress (Yes/Maybe/No).
 - Work_Interest :Represents whether the participant is losing interest in working (Yes/No).
 - Social_Weakness :Conveys feeling mentally weak when interacting with others (Yes/No).
-- 
+
 The raw data is stored in `data/raw/`, with processed versions available in `data/processed/` 
 
 ## Planned Modeling Approach
