@@ -22,12 +22,18 @@ pytest
 ### Installation
 Clone the Repository
 ```
-git clone [https://github.com/github_username/repo_name.git](https://github.com/EricTanUMD/414-project)
+git clone [(https://github.com/EricTanUMD/414-project)]
 ```
-Dependencies
+Activate Virtual Environment
+```
+source path/to/venv/bin/activate  # Linux/macOS
+path\to\venv\Scripts\activate     # Windows
+```
+Install Dependencies
 ```
 pip install -r requirements.txt
 ```
+
 ### Dataset
 
 This project utilizes the "Depression and Mental Health Data Analysis" dataset from Kaggle, which contains survey responses focused on mental health factors and depression indicators among adolescents and young adults.
@@ -51,27 +57,24 @@ This project utilizes the "Depression and Mental Health Data Analysis" dataset f
 - Coping_Struggles: The inability to cope with daily problems or stress (Yes/Maybe/No).
 - Work_Interest :Represents whether the participant is losing interest in working (Yes/No).
 - Social_Weakness :Conveys feeling mentally weak when interacting with others (Yes/No).
-
+- 
 The raw data is stored in `data/raw/`, with processed versions available in `data/processed/` 
 
-
 ## Planned Modeling Approach
-
 The following modeling techniques are planned for future implementation:
 - Logistic regression to identify key determinants of depression and anxiety
 - Random forest classifiers to detect patterns of mental health risk factors
-- Clustering to identify distinct profiles of adolescent mental health
 - Feature importance analysis to rank determinants by their impact
 
 ### Model Evaluation Strategy
-
 Models will be evaluated using multiple metrics to ensure comprehensive assessment:
 - Accuracy: Overall correctness of predictions
 - Sensitivity/Recall: Ability to correctly identify adolescents with mental health concerns
 - Specificity: Accuracy in identifying those without mental health concerns
 - Precision: Proportion of positive identifications that are actually correct
-License
-    Distributed under the MIT License. See LICENSE.txt for more information.
+  
+### License
+Distributed under the MIT License. See LICENSE.txt for more information.
 
 ### Acknowledgments
 Kaggle for providing the dataset
