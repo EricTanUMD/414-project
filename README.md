@@ -110,8 +110,6 @@ Kaggle for providing the dataset
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
 │
-├── setup.cfg          <- Configuration file for flake8
-│
 └── project   <- Source code for use in this project.
     │
     ├── __init__.py             <- Makes project a Python module
