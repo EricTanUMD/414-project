@@ -1,0 +1,74 @@
+Gender:
+  Female: 0
+  Male: 1
+
+Occupation:
+  Corporate: 0
+  Student: 1
+  Business: 2
+  Housewife: 3
+  Others: 4
+
+self_employed:
+  No: 0
+  Yes: 1
+
+family_history:
+  No: 0
+  Yes: 1
+
+treatment:
+  Yes: 1
+  No: 0
+
+Days_Indoors:
+  Go out Every day: 0
+  1-14 days: 1
+  15-30 days: 2
+  31-60 days: 3
+  More than 2 months: 4
+
+Growing_Stress:
+  No: 0
+  Maybe: 1
+  Yes: 2
+
+Changes_Habits:
+  No: 0
+  Maybe: 1
+  Yes: 2
+
+Mental_Health_History:
+  No: 0
+  Maybe: 1
+  Yes: 2
+
+Mood_Swings:
+  Low: 0
+  Medium: 1
+  High: 2
+
+Coping_Struggles:
+  No: 0
+  Yes: 1
+
+Work_Interest:
+  No: 0
+  Maybe: 1
+  Yes: 2
+
+Social_Weakness:
+  No: 0
+  Maybe: 1
+  Yes: 2
+
+mental_health_interview:
+  No: 0
+  Maybe: 1
+  Yes: 2
+
+care_options:
+  No: 0
+  Not sure: 1
+  Yes: 2
+
