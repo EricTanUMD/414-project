@@ -63,6 +63,10 @@
     "Coping_Struggles": {
       "No": 0,
       "Yes": 1
+    },
+    "One_Hot_Encodes": {
+      "True": 1,
+      "False": 0
     }
   }
 }
