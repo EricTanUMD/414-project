@@ -44,7 +44,6 @@ This project utilizes the "Depression and Mental Health Data Analysis" dataset f
 - **Size**: Approximately 300k raws
 
 ### Key Variables
-- Age: Represents the age of the participants.
 - Gender: Indicates the gender of the participants.
 - Occupation: Represents the participant's occupations.
 - Days_Indoors :Indicates the number of days the participant has not been out of the house
@@ -69,7 +68,6 @@ The following modeling techniques are planned for future implementation:
 ### Model Evaluation Strategy
 Models will be evaluated using multiple metrics to ensure comprehensive assessment:
 - Accuracy: Overall correctness of predictions
-- Sensitivity/Recall: Ability to correctly identify adolescents with mental health concerns
 - Specificity: Accuracy in identifying those without mental health concerns
 - Precision: Proportion of positive identifications that are actually correct
   
