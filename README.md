@@ -41,7 +41,7 @@ This project utilizes the "Depression and Mental Health Data Analysis" dataset f
 ### Dataset Details
 - **Source**: https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset/data
 - **Format**: CSV files containing survey response data
-- **Size**: Approximately 824 records
+- **Size**: Approximately 300k raws
 
 ### Key Variables
 - Age: Represents the age of the participants.
