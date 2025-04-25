@@ -39,7 +39,7 @@ pip install -r requirements.txt
 This project utilizes the "Depression and Mental Health Data Analysis" dataset from Kaggle, which contains survey responses focused on mental health factors and depression indicators among adolescents and young adults.
 
 ### Dataset Details
-- **Source**: [Depression and Mental Health Data Analysis](https://www.kaggle.com/datasets/shashwatwork/depression-and-mental-health-data-analysis)
+- **Source**: https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset/data
 - **Format**: CSV files containing survey response data
 - **Size**: Approximately 824 records
 
